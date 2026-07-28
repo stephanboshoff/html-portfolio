@@ -4,3 +4,5 @@ This repository consists of a series of HTML-based projects created as part of m
 Projects(Index.html, index.html) uploaded touching on:
 -HTML formatting and element construction.
 -Links and images.
+
+<img src="../assets/BirthdayProjectScreenshot.html">
