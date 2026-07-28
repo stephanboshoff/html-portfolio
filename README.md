@@ -5,4 +5,4 @@ Projects(Index.html, index.html) uploaded touching on:
 -HTML formatting and element construction.
 -Links and images.
 
-![ReadMeScreenshot](/ReadMeScreenshot.png)
+![ReadMeScreenshot](./ReadMeScreenshot.png)
